@@ -1,16 +1,17 @@
-### Terra
-wepack dev server and build config.  
+### Vue Antd Startkit use Terra
 
-![exp](./exp.png)
-
-fetures:  
-* react/vue
+fetures:
 * webpack dev/dll/build
 * mock server
 * api proxy
-* dll  
+* dll
 
-cfg: terra.config.js  
+use:
+* vue vue-router vuex
+* axios
+* element/antd
 
-usage: `npm run dev` || `npm run dll` || `npm run build`
+config: terra.config.js
+
+usage: `npm run dll` -> `npm start` | `npm run build`
 
