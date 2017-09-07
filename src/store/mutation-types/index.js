@@ -1,0 +1,4 @@
+export const EXPAND_MENU = 'EXPAND_MENU'
+export const CHANGE_HEADER_LEFT = 'CHANGE_HEADER_LEFT'
+export const SHOW_LOADING = 'SHOW_LOADING'
+export const HIDE_LOADING = 'HIDE_LOADING'

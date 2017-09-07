@@ -1,0 +1,15 @@
+[class^="el-icon-my"], [class*=" el-icon-my"] {
+  font-family:"anticon" !important;
+  font-size: inherit;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class*=" el-icon-my"], [class^=el-icon-my] {
+  font-family:"anticon" !important;
+  font-size: inherit;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
